@@ -50,3 +50,4 @@ dots.forEach((dot, i) => {
         currentSlide = i
     })
 })
+// Added comments
